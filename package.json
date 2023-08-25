@@ -1,0 +1,16 @@
+{
+  "name": "outsideanalyticsprj",
+  "version": "1.0.0",
+  "description": "Project for Outside Analytics",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "cypress run "
+  },
+  "author": "Justin Martinez",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/code-coverage": "^3.11.0",
+    "cypress": "^12.17.4",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  }
+}
